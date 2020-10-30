@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I am Grenston 👋
 
-<!--
-**grenstong/grenstong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align = "center">
+<p float = "left">
+  <a href="https://octodex.github.com/"> <img src = "https://octodex.github.com/skatetocat/" width = "320" height = "320" alt = "daft sri"> </a>
+  <a href="https://octodex.github.com/"> <img src = "https://octodex.github.com/images/daftpunktocat-guy.gif" width = "320" height = "320" alt = "daft sri"> </a>
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Azure DevOps, GitHub, Azure, Python, Powershell, Bash**
+- 🌱 I’m currently learning **Everything on DevOps**
+- 👯 I’m looking to develop tools for **GitHub**
+
