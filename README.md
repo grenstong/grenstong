@@ -8,7 +8,8 @@
 </p>
 </div>
 
-- 🔭 I’m currently working on **Azure DevOps, GitHub, Azure, Python, Powershell, Bash**
+- 🔭 I’m currently working on **Azure DevOps, GitHub, Azure**
+- :star2: I know the language: **Python, C++, Powershell, Javascript, YAML**
 - 🌱 I’m currently learning **Everything on DevOps**
 - 👯 I’m looking to develop tools for **GitHub**
 
